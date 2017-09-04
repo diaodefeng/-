@@ -1,0 +1,11 @@
+#login ul li a:hover{
+	text-decoration: none;
+}
+.img-responsive{
+	width: 30%;
+}
+@media only screen and (max-width: 790px) {
+	.img-responsive{
+		width: 50%;
+	}
+}
